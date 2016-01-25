@@ -1,0 +1,28 @@
+name: AnthonyGTellez
+favicon: null
+layout_spectrum: 0.8016924015246332
+typography_spectrum: 0.2524154765997082
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5276952460408211
+  lightness: 0.6356798140332103
+  saturation: 0.6700067261699587
+  rhythmicContrast: 0.05378664820455015
+purpose: []
